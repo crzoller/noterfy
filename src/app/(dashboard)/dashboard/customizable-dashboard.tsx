@@ -9,7 +9,7 @@ import { Button } from '@/components/ui/button'
 import { formatDateShort } from '@/lib/utils'
 import {
   Sparkles, Eye, Users, TrendingUp, FileText, Calendar,
-  Clock, BarChart3, ArrowRight, Settings2, X, Check, GripVertical
+  Clock, BarChart3, ArrowRight, Settings2, X, Check
 } from 'lucide-react'
 import type { Release } from '@/types'
 import { subDays, differenceInDays } from 'date-fns'
